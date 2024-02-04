@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/ShareMERC/M3RC/Content/FPS/AI/Blueprints/Services/BPS_Shoot.uasset",
+				"D:/Unreal Projects/ShareMERC/M3RC/Content/FPS/UI/Menus/WB_SettingsMenu.uasset",
+				"D:/Unreal Projects/ShareMERC/M3RC/Content/FPS/UI/Menus/WB_KeyRemap.uasset",
+				"D:/Unreal Projects/ShareMERC/M3RC/Content/FPS/UI/Menus/WB_MainMenu.uasset",
+				"D:/Unreal Projects/ShareMERC/M3RC/Content/FPS/UI/CharacterSelection/WB_CharacterSelection.uasset"
+			]
+		}
+	]
+}
