@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "M3RC",
+			"Path": "..\\Source\\M3RC.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "M3RCEditor",
+			"Path": "..\\Source\\M3RCEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

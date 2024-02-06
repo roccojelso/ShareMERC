@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-M3RC.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\ShareMERC\M3RC\Intermediate\Build\Win64\x64\M3RCEditor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"D:\Unreal Projects\ShareMERC\M3RC\Intermediate\Build\Win64\x64\UnrealEditor\Development\M3RC\CPP_GM_Base.gen.cpp.obj"
+"D:\Unreal Projects\ShareMERC\M3RC\Intermediate\Build\Win64\x64\UnrealEditor\Development\M3RC\M3RC.init.gen.cpp.obj"
+"D:\Unreal Projects\ShareMERC\M3RC\Intermediate\Build\Win64\x64\UnrealEditor\Development\M3RC\CPP_GM_Base.cpp.obj"
+"D:\Unreal Projects\ShareMERC\M3RC\Intermediate\Build\Win64\x64\UnrealEditor\Development\M3RC\M3RC.cpp.obj"
+"D:\Unreal Projects\ShareMERC\M3RC\Intermediate\Build\Win64\x64\UnrealEditor\Development\M3RC\Default.rc2.res"
+/OUT:"D:\Unreal Projects\ShareMERC\M3RC\Intermediate\Build\Win64\x64\UnrealEditor\Development\M3RC\UnrealEditor-M3RC.lib"

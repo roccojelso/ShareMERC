@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\sharemerc\\m3rc\\intermediate\\build\\win64\\unrealeditor\\inc\\m3rc\\uht\\m3rc.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\sharemerc\\m3rc\\intermediate\\build\\win64\\x64\\m3rceditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\sharemerc\\m3rc\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\m3rc\\definitions.m3rc.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\ShareMERC\\M3RC\\Source\\M3RC\\M3RC.Build.cs",
+		"D:\\Unreal Projects\\ShareMERC\\M3RC\\Source\\M3RC.Target.cs",
+		"D:\\Unreal Projects\\ShareMERC\\M3RC\\Source\\M3RCEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
